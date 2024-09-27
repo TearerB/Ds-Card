@@ -1,0 +1,11 @@
+/* POPPINS FONT */
+
+
+body{
+    background: url("images/card2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+	
+}
